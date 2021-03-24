@@ -1,7 +1,7 @@
 const config = {
-    endpoint: 'placeholder',
-    key: 'placeholder',
-    databaseID: 'placeholder',
-    containerID: 'placeholder'
+    endpoint: '',
+    key: '',
+    databaseID: '',
+    containerID: ''
 };
 module.exports = config;
