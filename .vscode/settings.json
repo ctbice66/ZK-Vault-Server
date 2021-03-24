@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/44a03e9e-149d-4767-8f36-e61a0b126e52/resourceGroups/ZK-Vault/providers/Microsoft.Web/sites/ZK-Vault",
+    "appService.deploySubpath": "."
+}

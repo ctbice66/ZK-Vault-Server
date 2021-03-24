@@ -1,0 +1,17 @@
+{
+  "name": "zk-vault-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Server.js",
+  "dependencies": {
+    "bigi": "^1.4.2",
+    "cors": "^2.8.5",
+    "ecurve": "^1.0.6",
+    "express": "^4.17.1",
+    "mathjs": "^8.0.1",
+    "@azure/cosmos": "^3.9.5"
+  },
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
+}
